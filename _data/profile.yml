@@ -28,8 +28,8 @@ short_bio: >-
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
+# portrait_url: /assets/images/photos/portrait.jpg
+# portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
