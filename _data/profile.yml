@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "SciSafeEval"
 
 positions:
-- logo: /assets/images/badges/PKU_red.png  # Logo is optional
+- logo: /assets/images/badges/logo-header-1.png  # Logo is optional
   name: Position 1 with logo
 - name: Position 2 without logo
 
